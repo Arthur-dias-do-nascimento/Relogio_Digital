@@ -1,4 +1,4 @@
-# Relogio_Digital
+# Relogio Digital
 Um relogio digital que mostrar as horas, minutos e segundos.
 
 ## Linguagens utilizadas
@@ -8,3 +8,6 @@ Um relogio digital que mostrar as horas, minutos e segundos.
  <li>CSS</li>
  <li>JavaScript</li>
 </ul>
+
+## Link
+https://arthur-dias-do-nascimento.github.io/Relogio_Digital/
